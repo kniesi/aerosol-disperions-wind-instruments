@@ -19,6 +19,7 @@ Data format:
   
   24       # Number of points describing the cloud contour
   546 405  # x- and y- coordinate in pixels
+  
   545 405
   544 406
   544 407
@@ -44,7 +45,7 @@ Data format:
   546 405
 	
   
-  30       # Next frame
+  30        # Next frame
   547 404
   546 405
   545 406
