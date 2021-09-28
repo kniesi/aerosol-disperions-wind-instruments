@@ -8,9 +8,11 @@ This document describes the structure of raw data about the aerosol disperion of
 
 
 ## Article Title
+Impulse dispersion of aerosols during playing wind instruments
 
 
 ## Contents
 - Clarinets.7z
 - Cross flutes.7z
 - Trumpets.7z
+- data_strucutre.txt
